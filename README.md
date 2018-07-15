@@ -1,2 +1,2 @@
 # henryclones.github.com
-Scripts for http://hyperprojects.cf
+Scripts for https://hyperprojects.cf
